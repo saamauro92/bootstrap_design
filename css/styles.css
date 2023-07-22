@@ -54,6 +54,10 @@ padding-left: 0;
 
 /* Page headers */
 
+.quotes .page-header {
+    margin-bottom: 25px;
+}
+
 .page-header {
     margin-bottom: 0;
     border-bottom: 0;
