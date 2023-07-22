@@ -173,3 +173,13 @@ padding-left: 0;
     font-size: 45px;
     line-height: 45px;
 }
+
+.feature .btn {
+    background-color: #fff;
+    border-color: #fff;
+    border-radius: 15px;
+    min-width: 100px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #f05f40;
+}
